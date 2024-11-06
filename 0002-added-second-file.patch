@@ -1,0 +1,20 @@
+From f05b16584730724e489abd2c5683e4cb41b49dd8 Mon Sep 17 00:00:00 2001
+From: Ilya Petrov <you@example.com>
+Date: Wed, 6 Nov 2024 17:02:25 +0300
+Subject: [PATCH 2/2] added second file
+
+---
+ second_file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 second_file.txt
+
+diff --git a/second_file.txt b/second_file.txt
+new file mode 100644
+index 0000000..1c59427
+--- /dev/null
++++ b/second_file.txt
+@@ -0,0 +1 @@
++second file
+-- 
+2.39.3 (Apple Git-146)
+
